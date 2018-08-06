@@ -2404,8 +2404,8 @@ p {
 .hero-section {
   position: relative;
   height: 100%;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54a5352da7dde9fff06fc5_BW_InsideOFF.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54a5352da7dde9fff06fc5_BW_InsideOFF.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
   background-position: 0px 0px, 50% 54%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -2413,25 +2413,25 @@ p {
 
 .hero-section.page {
   padding-bottom: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677533b6ee4eb2c_55082c1386445dab7e84895a_Dollarphotoclub_7575571161-min-min.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 0px;
   background-size: cover;
   background-attachment: scroll;
 }
 
 .hero-section.page.portfolio {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677531527e4eb3d_Dollarphotoclub_76912540-min-min.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 66%;
 }
 
 .hero-section.page.contact {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677531552e4eb49_Dollarphotoclub_59663246-min-min.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 59%;
 }
 
 .hero-section.alternative {
-  background-image: -webkit-linear-gradient(270deg, #000, transparent 15%), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677537064e4eb42_photo-1443926818681-717d074a57af.jpg");
-  background-image: linear-gradient(180deg, #000, transparent 15%), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677537064e4eb42_photo-1443926818681-717d074a57af.jpg");
+  background-image: -webkit-linear-gradient(270deg, #000, transparent 15%), url("//images/BW_InsideOFF.jpg");
+  background-image: linear-gradient(180deg, #000, transparent 15%), url("//images/BW_InsideOFF.jpg");
   background-position: 0px 0px, 50% 50%;
 }
 
@@ -2536,7 +2536,7 @@ p {
 
 .section.facts {
   padding-bottom: 110px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677531552e4eb49_Dollarphotoclub_59663246-min-min.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 18%;
   background-size: cover;
   background-attachment: fixed;
@@ -2731,7 +2731,7 @@ p {
   float: none;
   border-radius: 50px;
   background-color: #f7f7f7;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753d209e4eafa_diamond.png");
+  background-image: url("//images/diamond.png");
   background-position: 50% 50%;
   background-size: 35px;
   background-repeat: no-repeat;
@@ -2745,7 +2745,7 @@ p {
   height: 100px;
   border-color: #00c2a2;
   background-color: #00c2a2;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677530c1ee4eafd_diamond1.png");
+  background-image: url("//images/diamond1.png");
   box-shadow: 0 0 2px 1px hsla(220, 4%, 69%, .47);
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
@@ -2785,20 +2785,20 @@ p {
 .social-icon-block._1 {
   padding-top: 5px;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc15cbc02c5c5d7d8fa88_graph_150.png");
+  background-image: url("//images/graph_150.png");
   background-size: 50px;
   text-align: center;
 }
 
 .social-icon-block._1:hover {
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc15cbc02c5c5d7d8fa88_graph_150.png");
+  background-image: url("//images/graph_150.png");
   background-size: 50px;
 }
 
 .social-icon-block._2 {
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc256ce9b87b5916abca1_medical_clipboard.png");
+  background-image: url("//images/medical_clipboard.png");
   background-size: 50px;
 }
 
@@ -2806,14 +2806,14 @@ p {
   border-style: none;
   border-color: #fff;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc256ce9b87b5916abca1_medical_clipboard.png");
+  background-image: url("//images/medical_clipboard.png");
   background-size: 50px;
 }
 
 .social-icon-block._3 {
   border: 0px solid #000;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc0fe44b6735d25963509_clock.png");
+  background-image: url("//images/clock.png");
   background-size: 75px;
 }
 
@@ -2821,42 +2821,42 @@ p {
   border-style: none;
   border-color: #00c2a2;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fc0fe44b6735d25963509_clock.png");
+  background-image: url("//images/clock.png");
   background-size: 75px;
 }
 
 .social-icon-block._4 {
   border: 0px solid #fff;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753a0c5e4eaf5_re.svg");
+  background-image: url("//images/re.svg");
 }
 
 .social-icon-block._4:hover {
   border-style: none;
   border-color: #00c2a2;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753a0c5e4eaf5_re.svg");
+  background-image: url("//images/re.svg");
 }
 
 .social-icon-block._5 {
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753a66ae4eb16_layouts.svg");
+  background-image: url("//images/layouts.svg");
 }
 
 .social-icon-block._5:hover {
   border: 0px none #00c2a2;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753a66ae4eb16_layouts.svg");
+  background-image: url("//images/layouts.svg");
 }
 
 .social-icon-block._6 {
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753cf8ce4eb22_fly2.svg");
+  background-image: url("//images/fly2.svg");
 }
 
 .social-icon-block._6:hover {
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753cf8ce4eb22_fly2.svg");
+  background-image: url("//images/fly2.svg");
 }
 
 .service-title {
@@ -3239,14 +3239,14 @@ p {
 
 .slide1 {
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677536c65e4eb38_full-project-1.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-2 {
   border-radius: 0px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753d297e4eb3c_full-project-3.jpg");
+  background-image: url("//images/BW_InsideOFF.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3332,8 +3332,8 @@ p {
 .testimonials {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54aad29b2268c3a82c3788_DSC_9225-2.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54aad29b2268c3a82c3788_DSC_9225-2.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("//images/DSC_9225-2.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("//images/DSC_9225-2.jpg");
   background-position: 0px 0px, 50% 65%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -3378,38 +3378,20 @@ p {
 .portfolio-post {
   width: 100%;
   height: 300px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54cdc94486f80c068c5e6a_DSC_9192.jpg");
+  background-image: url("//images/DSC_9192.jpg");
   background-position: 50% 100%;
   background-size: cover;
 }
 
 .portfolio-post.second {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54ceff9b22683a942c4c94_DSC_9318.jpg");
+  background-image: url("//images/DSC_9318.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-post.third {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54ce6a9b226834da2c4c79_DSC_0196%20(1).jpg");
+  background-image: url("//imagesDSC_0196.jpg");
   background-position: 50% 0px;
-  background-size: cover;
-}
-
-.portfolio-post.five {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677531cc4e4eb3f_N13RIliTTASBbuYyszgq_P9020914-54.jpg");
-  background-position: -47px 50%;
-  background-size: cover;
-}
-
-.portfolio-post.seven {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677533af1e4eb47_photo-1444401806725-c145fa11f577.jpg");
-  background-position: 50% 0px;
-  background-size: cover;
-}
-
-.portfolio-post.sixth {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e677530870e4eb4a_book-report-geometric-%5BConverted%5D.jpg");
-  background-position: 50% 50%;
   background-size: cover;
 }
 
@@ -3506,13 +3488,13 @@ p {
   height: 90px;
   margin-bottom: 30px;
   border-radius: 50px;
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b5f596eaaff48c8ef686ec2_female.jpg");
+  background-image: url("//images/female.jpg");
   background-position: 0px 50%;
   background-size: cover;
 }
 
 .image-div.first {
-  background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b5f595ad9b73f5149b455d7_male.jpg");
+  background-image: url("//images/male.jpg");
   background-position: 50% 50%;
 }
 
@@ -4493,7 +4475,7 @@ html.w-mod-js *[data-ix="modal-interaction"] {
   .section.facts {
       padding-top: 110px;
       padding-bottom: 60px;
-      background-image: url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b4fb8b0e67753accae4eb43_Dollarphotoclub_59663246.jpg");
+      background-image: url("//images/BW_InsideOFF.jpg");
   }
   .section.gallery {
       padding-top: 90px;
@@ -4830,8 +4812,8 @@ html.w-mod-js *[data-ix="modal-interaction"] {
       text-align: center;
   }
   .hero-section {
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54a5352da7dde9fff06fc5_BW_InsideOFF.jpg");
-      background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("https://uploads-ssl.webflow.com/5b4fb8b0e677532f7de4eae2/5b54a5352da7dde9fff06fc5_BW_InsideOFF.jpg");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
+      background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
       background-position: 0px 0px, 50% 50%;
       background-size: auto, cover;
       background-repeat: repeat, no-repeat;
