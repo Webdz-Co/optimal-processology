@@ -2404,8 +2404,8 @@ p {
 .hero-section {
   position: relative;
   height: 100%;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("./images/BW_InsideOFF.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .3)), url("./images/BW_InsideOFF.jpg");
   background-position: 0px 0px, 50% 54%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -2413,25 +2413,25 @@ p {
 
 .hero-section.page {
   padding-bottom: 0px;
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 0px;
   background-size: cover;
   background-attachment: scroll;
 }
 
 .hero-section.page.portfolio {
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 66%;
 }
 
 .hero-section.page.contact {
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 59%;
 }
 
 .hero-section.alternative {
-  background-image: -webkit-linear-gradient(270deg, #000, transparent 15%), url("//images/BW_InsideOFF.jpg");
-  background-image: linear-gradient(180deg, #000, transparent 15%), url("//images/BW_InsideOFF.jpg");
+  background-image: -webkit-linear-gradient(270deg, #000, transparent 15%), url("./images/BW_InsideOFF.jpg");
+  background-image: linear-gradient(180deg, #000, transparent 15%), url("./images/BW_InsideOFF.jpg");
   background-position: 0px 0px, 50% 50%;
 }
 
@@ -2536,7 +2536,7 @@ p {
 
 .section.facts {
   padding-bottom: 110px;
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 18%;
   background-size: cover;
   background-attachment: fixed;
@@ -2731,7 +2731,7 @@ p {
   float: none;
   border-radius: 50px;
   background-color: #f7f7f7;
-  background-image: url("//images/diamond.png");
+  background-image: url("./images/diamond.png");
   background-position: 50% 50%;
   background-size: 35px;
   background-repeat: no-repeat;
@@ -2745,7 +2745,7 @@ p {
   height: 100px;
   border-color: #00c2a2;
   background-color: #00c2a2;
-  background-image: url("//images/diamond1.png");
+  background-image: url("./images/diamond1.png");
   box-shadow: 0 0 2px 1px hsla(220, 4%, 69%, .47);
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
@@ -2785,20 +2785,20 @@ p {
 .social-icon-block._1 {
   padding-top: 5px;
   background-color: #fff;
-  background-image: url("//images/graph_150.png");
+  background-image: url("./images/graph_150.png");
   background-size: 50px;
   text-align: center;
 }
 
 .social-icon-block._1:hover {
   background-color: #fff;
-  background-image: url("//images/graph_150.png");
+  background-image: url("./images/graph_150.png");
   background-size: 50px;
 }
 
 .social-icon-block._2 {
   background-color: #fff;
-  background-image: url("//images/medical_clipboard.png");
+  background-image: url("./images/medical_clipboard.png");
   background-size: 50px;
 }
 
@@ -2806,14 +2806,14 @@ p {
   border-style: none;
   border-color: #fff;
   background-color: #fff;
-  background-image: url("//images/medical_clipboard.png");
+  background-image: url("./images/medical_clipboard.png");
   background-size: 50px;
 }
 
 .social-icon-block._3 {
   border: 0px solid #000;
   background-color: #fff;
-  background-image: url("//images/clock.png");
+  background-image: url("./images/clock.png");
   background-size: 75px;
 }
 
@@ -2821,42 +2821,42 @@ p {
   border-style: none;
   border-color: #00c2a2;
   background-color: #fff;
-  background-image: url("//images/clock.png");
+  background-image: url("./images/clock.png");
   background-size: 75px;
 }
 
 .social-icon-block._4 {
   border: 0px solid #fff;
   background-color: #fff;
-  background-image: url("//images/re.svg");
+  background-image: url("./images/re.svg");
 }
 
 .social-icon-block._4:hover {
   border-style: none;
   border-color: #00c2a2;
   background-color: #fff;
-  background-image: url("//images/re.svg");
+  background-image: url("./images/re.svg");
 }
 
 .social-icon-block._5 {
   background-color: #fff;
-  background-image: url("//images/layouts.svg");
+  background-image: url("./images/layouts.svg");
 }
 
 .social-icon-block._5:hover {
   border: 0px none #00c2a2;
   background-color: #fff;
-  background-image: url("//images/layouts.svg");
+  background-image: url("./images/layouts.svg");
 }
 
 .social-icon-block._6 {
   background-color: #fff;
-  background-image: url("//images/fly2.svg");
+  background-image: url("./images/fly2.svg");
 }
 
 .social-icon-block._6:hover {
   background-color: #fff;
-  background-image: url("//images/fly2.svg");
+  background-image: url("./images/fly2.svg");
 }
 
 .service-title {
@@ -3239,14 +3239,14 @@ p {
 
 .slide1 {
   border-radius: 0px;
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-2 {
   border-radius: 0px;
-  background-image: url("//images/BW_InsideOFF.jpg");
+  background-image: url("./images/BW_InsideOFF.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3332,8 +3332,8 @@ p {
 .testimonials {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("//images/DSC_9225-2.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("//images/DSC_9225-2.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("./images/DSC_9225-2.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .63), rgba(0, 0, 0, .63)), url("./images/DSC_9225-2.jpg");
   background-position: 0px 0px, 50% 65%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -3378,19 +3378,19 @@ p {
 .portfolio-post {
   width: 100%;
   height: 300px;
-  background-image: url("//images/DSC_9192.jpg");
+  background-image: url("./images/DSC_9192.jpg");
   background-position: 50% 100%;
   background-size: cover;
 }
 
 .portfolio-post.second {
-  background-image: url("//images/DSC_9318.jpg");
+  background-image: url("./images/DSC_9318.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-post.third {
-  background-image: url("//imagesDSC_0196.jpg");
+  background-image: url("./imagesDSC_0196.jpg");
   background-position: 50% 0px;
   background-size: cover;
 }
@@ -3488,13 +3488,13 @@ p {
   height: 90px;
   margin-bottom: 30px;
   border-radius: 50px;
-  background-image: url("//images/female.jpg");
+  background-image: url("./images/female.jpg");
   background-position: 0px 50%;
   background-size: cover;
 }
 
 .image-div.first {
-  background-image: url("//images/male.jpg");
+  background-image: url("./images/male.jpg");
   background-position: 50% 50%;
 }
 
@@ -4475,7 +4475,7 @@ html.w-mod-js *[data-ix="modal-interaction"] {
   .section.facts {
       padding-top: 110px;
       padding-bottom: 60px;
-      background-image: url("//images/BW_InsideOFF.jpg");
+      background-image: url("./images/BW_InsideOFF.jpg");
   }
   .section.gallery {
       padding-top: 90px;
@@ -4812,8 +4812,8 @@ html.w-mod-js *[data-ix="modal-interaction"] {
       text-align: center;
   }
   .hero-section {
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
-      background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("//images/BW_InsideOFF.jpg");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("./images/BW_InsideOFF.jpg");
+      background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url("./images/BW_InsideOFF.jpg");
       background-position: 0px 0px, 50% 50%;
       background-size: auto, cover;
       background-repeat: repeat, no-repeat;
