@@ -2456,7 +2456,7 @@ Webflow.require('ix').init([{
       },
       "triggers": []
   }
-}, /**{
+}, {
   "slug": "show-nav",
   "name": "Show Nav",
   "value": {
@@ -2482,7 +2482,7 @@ Webflow.require('ix').init([{
           }]
       }]
   }
-}, */{
+}, {
   "slug": "upper-heading",
   "name": "Upper Heading",
   "value": {
