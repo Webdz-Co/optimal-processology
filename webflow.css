@@ -1916,6 +1916,7 @@ textarea.w-select {
 
 .w-nav-menu {
   position: relative;
+  cursor: pointer;
   float: right
 }
 
